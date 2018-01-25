@@ -3,9 +3,6 @@ using System.IO;
 using System.Threading;
 using WinSCP;
 
-// If you comment out the next line and just use regular System.IO.File everything works
-//using File = Alphaleonis.Win32.Filesystem.File;
-
 namespace SessionFileLocking
 {
     // Assuming all of the following:
