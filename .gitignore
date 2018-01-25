@@ -1,0 +1,4 @@
+packages/
+SessionFileLocking/obj/
+SessionFileLocking/bin/
+.vs/
